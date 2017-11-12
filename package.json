@@ -2,9 +2,9 @@
   "name": "ui-select",
   "main": "./index.js",
   "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
-  "homepage": "http://github.com/angular-ui/ui-select",
+  "homepage": "https://github.com/rayner-villalba-coderoad-com/ui-select",
   "repository": {
-    "url": "git://github.com/angular-ui/ui-select.git"
+    "url": "git://github.com/rayner-villalba-coderoad-com/ui-select.git
   },
   "style": "dist/select.css",
   "version": "0.19.8",
